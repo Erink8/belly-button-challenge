@@ -1,5 +1,6 @@
 # Belly Button Biodiversity
 <img width="851" alt="Screenshot 2023-04-06 at 4 08 30 PM" src="https://user-images.githubusercontent.com/119360371/230494737-66a67ae8-735f-4a9c-9d60-1be00b6445e1.png">
+
 ## Background
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 

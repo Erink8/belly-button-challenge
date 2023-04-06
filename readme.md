@@ -41,3 +41,5 @@ Display the sample metadata, i.e., an individual's demographic information.
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+Note: parts of the JS code were completed with support from workplace peers and Stack Overflow
